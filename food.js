@@ -41,6 +41,7 @@ class Food {
       }
       
     }
+    
     bedroom(){
       background(bedroom,550,500);
 
